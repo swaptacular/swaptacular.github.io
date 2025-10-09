@@ -124,8 +124,8 @@ nodes
 [here](https://github.com/swaptacular/swpt_creditors/blob/master/docker-compose-all.yml),
 and
 [here](https://github.com/swaptacular/swpt_debtors/blob/master/docker-compose-all.yml).
-You can also [deploy Swaptacular to Kubernetes
-clusters](https://github.com/swaptacular/swpt-k8s-config).
+You can also **[deploy Swaptacular to Kubernetes
+clusters](https://github.com/swaptacular/swpt-k8s-config)**.
 
 <div>
   <h2>Want to know more?</h2>
