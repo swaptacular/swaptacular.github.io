@@ -29,7 +29,7 @@ In Swaptacular's network architecture, there are five types of nodes:
 5. **Creditors Agents** are proxies that connect currency holders to
    accounting authorities. They *may* also facilitate [automated
    currency exchanges between
-   creditors](https://github.com/swaptacular/swpt_trade).
+   creditors](https://swaptacular.github.io/2024/07/04/automated-currency-exchanges/).
 
 <div class="message">
   <img src="/images/swpt_basic_network.svg" alt="Swaptacular Basic Network">
