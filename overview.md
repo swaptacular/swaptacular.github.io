@@ -29,7 +29,7 @@ In Swaptacular's network architecture, there are five types of nodes:
 5. **Creditors Agents** are proxies that connect currency holders to
    accounting authorities. They *may* also facilitate [automated
    currency exchanges between
-   creditors](https://swaptacular.github.io/2024/07/04/automated-currency-exchanges/).
+   creditors](/2024/07/04/automated-currency-exchanges/).
 
 <div class="message">
   <img src="/images/swpt_basic_network.svg" alt="Swaptacular Basic Network">
@@ -61,12 +61,12 @@ connecting *currency issuers* to the same accounting authority.
 At the core of Swaptacular's network architecture is the [Swaptacular
 Messaging Protocol](/public/docs/protocol.pdf), which governs the
 communication between accounting authorities and debtors/creditors
-agents. The protocol uses a [two-phase
-commit](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
-schema for making payments, which allows for the implementation of
-automatic currency exchanges in the spirit of [Circular Multilateral
-Barter](/public/docs/cmb-general.pdf), eliminating the need for a
-single reserve currency.
+agents. The protocol uses [two-phase
+commit](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) for
+making payments, which allows for the implementation of automated
+currency exchanges in the spirit of [Circular Multilateral
+Barter](/public/docs/cmb-general.pdf), reducing dependence on a
+dominant reserve currency.
 
 In order to allow currency holders to use a client application of
 their choice, Swaptacular recommends creditors agents to follow the 
@@ -118,13 +118,10 @@ All the above implementations try to:
 4. Demonstrate that an implementation that does scale very well
    horizontally, is indeed possible.
 
-You can see examples how to run the different kinds of Swaptacular
-nodes
-[here](https://github.com/swaptacular/swpt_accounts/blob/master/docker-compose-all.yml),
-[here](https://github.com/swaptacular/swpt_creditors/blob/master/docker-compose-all.yml),
-and
-[here](https://github.com/swaptacular/swpt_debtors/blob/master/docker-compose-all.yml).
-You can also **[deploy Swaptacular to Kubernetes
+For testing, you can [install and run a full set of Swaptacular
+network nodes on your
+laptop](/2024/07/07/under-the-hood-running-everything-together/). You
+can also **[deploy Swaptacular to Kubernetes
 clusters](https://github.com/swaptacular/swpt-k8s-config)**.
 
 <div>
