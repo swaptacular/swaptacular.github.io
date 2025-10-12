@@ -114,7 +114,7 @@ All the above implementations try to:
 1. Be correct.
 2. Be as simple as possible.
 3. Be useful in the real world.
-4. Demonstrate that an implementation that does scale very well
+4. Demonstrate that an implementation that scales very well
    horizontally, is indeed possible.
 
 For testing, you can [install and run a full set of Swaptacular
