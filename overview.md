@@ -119,8 +119,9 @@ All the above implementations try to:
 
 For testing, you can [install and run a full set of Swaptacular
 network nodes on your
-laptop](/2024/07/07/under-the-hood-running-everything-together/). You
-can also **[deploy Swaptacular to Kubernetes
+laptop](/2024/07/07/under-the-hood-running-everything-together/).
+
+You can also **[deploy Swaptacular to Kubernetes
 clusters](https://github.com/swaptacular/swpt-k8s-config)**.
 
 <div>
