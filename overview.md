@@ -74,8 +74,7 @@ their choice, Swaptacular recommends creditors agents to follow the
 
 Since interchangeability of client applications for currency issuing is not
 of critical importance, Swaptacular does not make recommendations about the
-*Issuing Web API*. (The reference implementation uses [Simple Issuing Web
-API](/public/docs/swpt_debtors/redoc.html).)
+*Issuing Web API*.
 
 Swaptacular takes the interoperability between different
 implementations very seriously, and tries to produce precise, clear,
