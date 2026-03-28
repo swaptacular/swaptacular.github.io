@@ -100,4 +100,5 @@ huge number of different currencies. Fortunately, the creditors agent
 can use its own "automated currency exchanges" services, to trade the
 currencies that it does not need, for currencies that it does need.
 This process has not been automated yet, but I have plans to automate
-it in the future.
+it in the future. **Edit:** This automation has been implemented
+(March 28, 2026).
