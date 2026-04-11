@@ -35,4 +35,5 @@ anyone with a good grasp of Kubernetes to deploy their own
 exchanges](/2024/07/04/automated-currency-exchanges/) has not yet
 reached version 1.0. While major changes are unlikely, some
 adjustments — possibly backward-incompatible ones — may still be
-necessary.
+necessary. **Edit:** The exchange service has reached version 1.0
+(March 28, 2026).
