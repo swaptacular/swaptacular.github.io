@@ -153,7 +153,7 @@ important information, from a potentially untrustworthy source.
 
 Sometimes when you scan a digital coin, your [creditors agent](/overview/)
 will not have an established connection to the [accounting
-authority](/overview) that manages the currency. In this case, you will not
+authority](/overview/) that manages the currency. In this case, you will not
 be able to receive or make payments in this currency, but thanks to the
 information obtained from the document that describes the currency, you
 still can create a *dummy account* with the currency.

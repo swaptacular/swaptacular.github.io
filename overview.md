@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Learn more
 ---
 
 Digital currencies are all around us. Nowadays, it is relatively easy
