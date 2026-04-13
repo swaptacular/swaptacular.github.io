@@ -12,6 +12,9 @@ nodes](/overview/), each serving a different role in the network:
 * accounting authority nodes
 * debtors agent nodes
 
+**If you are considering running your own Swaptacular node, feel free
+to [contact us](/contact/).**
+
 If you have decided to run your own Swaptacular node, there are
 several ways to do so. The best approach depends on your goals. Below
 are the most common scenarios, listed from the simplest to the most
@@ -28,6 +31,8 @@ it enables you to collect a small fee from each completed exchange.
 The easiest way to get started is to let `swaptacular.org` run the
 node for you. We are committed to keeping this service free, and we
 rely on donations to support it.
+
+<p>{% include sponsor_button.html %}</p>
 
 
 ## Run a creditors agent node yourself
@@ -87,22 +92,3 @@ match any existing *serialNumber* in the public list.
 
 **Note:** Click on the name of the node to download its [info-bundle
 file](https://github.com/swaptacular/swpt_ca_scripts).
-
-
-<div>
-  <h2>Want to know more?</h2>
-  <ul class="related-posts">
-  {% for node in site.tags.intro %}
-    {% unless node.tags contains 'overview' %}
-      <li>
-        <h3>
-          <a href="{{ node.url }}">
-            {{ node.title }}
-          </a>
-          <small>{{ node.date | date_to_string }}</small>
-        </h3>
-      </li>
-    {% endunless %}
-  {% endfor %}
-  </ul>
-</div>

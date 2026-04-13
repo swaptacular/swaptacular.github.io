@@ -41,3 +41,7 @@ mailing_list:
 github:
   repo: https://github.com/swaptacular
   utterances_repo_path: swaptacular/swaptacular.github.io
+  discussions_url: https://github.com/orgs/swaptacular/discussions
+
+maintainer:
+  obfuscated_email: postmaster [at] swaptacular [dot] org

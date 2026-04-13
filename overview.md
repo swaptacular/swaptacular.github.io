@@ -119,21 +119,3 @@ laptop](/2024/07/07/under-the-hood-running-everything-together/).
 
 You can also **[deploy Swaptacular to Kubernetes
 clusters](https://github.com/swaptacular/swpt-k8s-config)**.
-
-<div>
-  <h2>Want to know more?</h2>
-  <ul class="related-posts">
-  {% for node in site.tags.intro %}
-    {% unless node.tags contains 'overview' %}
-      <li>
-        <h3>
-          <a href="{{ node.url }}">
-            {{ node.title }}
-          </a>
-          <small>{{ node.date | date_to_string }}</small>
-        </h3>
-      </li>
-    {% endunless %}
-  {% endfor %}
-  </ul>
-</div>
