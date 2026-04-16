@@ -47,6 +47,11 @@ it to at least one [accounting authority node from the public
 list](#public-list-of-accounting-authority-nodes).
 
 
+**Note:** To use a well-known currency as a peg, check [the list of
+reserved currency IDs](#reserved-currency-ids) first. If it isn’t
+listed, contact us to have it added.
+
+
 ## Run an accounting authority node
 
 Running your own *accounting authority node* helps ensure the
@@ -92,3 +97,23 @@ match any existing *serialNumber* in the public list.
 
 **Note:** Click on the name of the node to download its [info-bundle
 file](https://github.com/swaptacular/swpt_ca_scripts).
+
+## Reserved currency IDs
+
+<table>
+  <thead>
+    <tr>
+      <th>Currency ID / Debtor ID</th>
+      <th>Currency Name</th>
+      <th>Digital Coin</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>840</td>
+      <td>United States Dollar</td>
+      <td><a href="https://debtors.swaptacular.org/840#swpt:840" target="_blank" style="word-break: break-all">https://debtors.swaptacular.org/840#swpt:840</a></td>
+    </tr>
+  </tbody>
+</table>
+
