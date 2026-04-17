@@ -48,8 +48,8 @@ list](#public-list-of-accounting-authority-nodes).
 
 
 **Note:** To use a well-known currency as a peg, check [the list of
-reserved currency IDs](#reserved-currency-ids) first. If it isn’t
-listed, contact us to have it added.
+reserved currency IDs](#reserved-currency-ids) first. If the currency
+is not listed, contact us to have it added.
 
 
 ## Run an accounting authority node
