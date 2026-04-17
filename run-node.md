@@ -79,7 +79,7 @@ match any existing *serialNumber* in the public list.
 <table>
   <thead>
     <tr>
-      <th>Name</th>
+      <th>Node Name</th>
       <th>serial&#8203;Number</th>
       <th>Added</th>
       <th>Status</th>
