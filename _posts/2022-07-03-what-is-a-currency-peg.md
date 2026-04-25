@@ -148,6 +148,8 @@ goal since the beginning. All the underlying protocols are designed to
 support it, and I hope that in the not so distant future, we will have
 the time and resources to implement it.
 
+**Edit:** The exchange service has reached version 1.0 (March 28, 2026).
+
 <div class="message">
   <b>Note:</b> The <a href="{{ site.app_demo.creditors_webapp}}">Currency
   Holder UI</a> allows you to set an exchange policy for each currency
@@ -155,5 +157,5 @@ the time and resources to implement it.
   exchanges with other users. This functionality is not implemented on
   the server yet. Currently, all exchange policies set by users will
   be ignored.
-  <b>Edit:</b> The exchange service has reached version 1.0 (March 28, 2026).
+  <i>Edit: This functionality has been implemented (March 28, 2026).</i>
 </div>
