@@ -45,9 +45,9 @@ purchased with global reserve currencies. Often, central banks
 stabilized the system by pegging the national currency to a global
 reserve currency — a policy called “a currency peg.”
 
-But the problem with national banking isn’t much different from the
+But the problem with national banking isn’t very different from the
 problem with global trade. It treats the nation as a single,
-aggregated economy. It can not account for the competing interests of
+aggregated economy and cannot account for the competing interests of
 banks, industries, the rich, and the poor.
 
 The result? The national currency ends up serving the national elites,
