@@ -7,11 +7,11 @@ Swaptacular is free software that strives to make creating and issuing
 new digital currencies practical for everyone.
 
 Most importantly, **Swaptacular automates currency exchanges** —
-helping thousands of businesses and individuals to efficiently and
-fairly swap what they have for what they need.
+helping businesses and individuals to efficiently and fairly swap what
+they have for what they need.
 
 <div style="margin: 30px 0">
-  <video controls preload="none" poster="public/video/intro.png" style="width: 100%; height: auto;">
+  <video controls poster="public/video/intro.png" style="width: 100%; height: auto;">
     <source src="public/video/intro.m4v" type="video/mp4">
     Your browser doesn't support HTML video. Here is a
     <a href="public/video/intro.m4v" download="intro.m4v">link to the video</a> instead.
@@ -19,7 +19,7 @@ fairly swap what they have for what they need.
 </div>
 
 
-## Why this is important?
+## Why this matters
 
 We live in a globalized economy. However, ensuring that the world’s
 resources flow smoothly across the globe isn’t easy.
@@ -33,10 +33,9 @@ interests of those who manage them.
 Unfortunately, those interests don’t always align with everyone
 else’s!
 
-Historically, to protect themselves from international sharks,
-independent nations created their own banking systems, and issued
-national currencies. The goal was simple: keep as much trade as
-possible within national borders.
+Historically, to protect their economies, independent nations created
+their own banking systems and issued national currencies. The goal was
+simple: keep as much trade as possible within national borders.
 
 National central banks had to balance competing needs. There had to be
 enough currency in circulation to pay decent wages — but not so much
@@ -64,7 +63,7 @@ Yet, sustaining these local systems was practically impossible.
 Currency exchange was difficult, counterfeiting was a constant threat,
 and state interference could easily destroy them.
 
-## However, digital currencies have changed the game!
+## Digital currencies make this possible
 
 Today, digital currencies make local trading systems cheaper, safer,
 and truly viable for small businesses.
