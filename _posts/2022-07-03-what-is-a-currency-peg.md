@@ -155,4 +155,5 @@ the time and resources to implement it.
   exchanges with other users. This functionality is not implemented on
   the server yet. Currently, all exchange policies set by users will
   be ignored.
+  <b>Edit:</b> The exchange service has reached version 1.0 (March 28, 2026).
 </div>
