@@ -31,7 +31,7 @@ make global trade more predictable — and, naturally, to serve the
 interests of those who manage them.
 
 Unfortunately, those interests don’t always align with everyone
-else’s!
+else’s.
 
 Historically, to protect their economies, independent nations created
 their own banking systems and issued national currencies. The goal was
