@@ -3,8 +3,8 @@ layout: homepage
 title: What is Swaptacular? 🤔
 ---
 
-Swaptacular is free software that strives to make creating and issuing
-new digital currencies practical for everyone.
+Swaptacular is free software that makes creating and issuing new
+digital currencies practical for everyone.
 
 Most importantly, **Swaptacular automates currency exchanges** —
 helping businesses and individuals to efficiently and fairly swap what
@@ -66,16 +66,16 @@ and state interference could easily destroy them.
 ## Digital technologies are redefining what is possible
 
 Cheap internet hosting and widespread mobile connectivity have opened
-up new opportunities. Today, creating a digital currency is no longer
-limited to large institutions — small businesses can do it too.
+up new opportunities. Today, creating digital currencies is no longer
+limited to large institutions — small businesses can create them too.
 
-As a result, networks can emerge based on real economic activity and
-trust, issuing currency in line with local supply and demand.
+As a result, networks can emerge from real economic activity and
+trust, issuing currencies that closely match the local supply and
+demand.
+
 Automated currency exchanges — once impractical — have become a
-routine reality.
-
-This makes local trading systems cheaper, safer, and truly viable for
-small businesses.
+routine reality. Together, these developments make local trading
+systems cheaper, safer, and truly viable for small businesses.
 
 <div class="lead message">
   👉 <a href="/overview/">We now have the tools</a> to create money
