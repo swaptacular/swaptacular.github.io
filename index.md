@@ -63,10 +63,23 @@ Yet, sustaining these local systems was practically impossible.
 Currency exchange was difficult, counterfeiting was a constant threat,
 and state interference could easily destroy them.
 
-## Digital currencies make this possible
+## Digital technologies are redefining what is possible
 
-Today, digital currencies make local trading systems cheaper, safer,
-and truly viable for small businesses.
+Cheap internet hosting and widespread mobile connectivity have opened
+up new opportunities. Today, creating a digital currency is no longer
+limited to large institutions — small businesses can do it too.
 
-> For the first time, we can have money that works for the community —
-> not the other way around!
+As a result, networks can emerge based on real economic activity and
+trust, issuing currency in line with local supply and demand.
+Automated currency exchanges — once impractical — have become a
+routine reality.
+
+This makes local trading systems cheaper, safer, and truly viable for
+small businesses.
+
+<div class="lead message">
+  👉 <a href="/overview/">We now have the tools</a> to create money
+  that works for the community — not the other way around!
+</div>
+
+
