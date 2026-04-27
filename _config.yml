@@ -47,3 +47,7 @@ github:
 
 maintainer:
   obfuscated_email: postmaster [at] swaptacular [dot] org
+
+analytics:
+  rybbit:
+    data_site_id: 88da4ed3a101
