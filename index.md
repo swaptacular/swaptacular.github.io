@@ -65,17 +65,19 @@ and state interference could easily destroy them.
 
 ## Digital technologies are redefining what is possible
 
-Cheap internet hosting and widespread mobile connectivity have opened
+Widespread mobile connectivity and cheap internet hosting have opened
 up new opportunities. Today, creating digital currencies is no longer
-limited to large institutions — small businesses can create them too.
+an exclusive privilege of large institutions such as banks. Small
+businesses can do it too. Currency counterfeiting is far less of a
+concern.
 
-As a result, networks can emerge from real economic activity and
-trust, issuing currencies that closely match the local supply and
-demand.
+As a result, networks rooted in local economic activity can emerge.
+These networks can issue currencies that closely match the local
+supply and demand.
 
-Automated currency exchanges — once impractical — have become a
-routine reality. Together, these developments make local trading
-systems cheaper, safer, and truly viable for small businesses.
+Last but not least, automated currency exchanges — once impractical —
+have become a routine reality. Together, these developments make local
+trading systems cheaper, safer, and truly viable for small businesses.
 
 <div class="lead message">
   👉 <a href="/overview/">We now have the tools</a> to create money
