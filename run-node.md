@@ -39,17 +39,18 @@ rely on donations to support it.
 
 If you prefer not to depend on a third party, you can [deploy a
 creditors agent node on your own Kubernetes
-cluster](https://github.com/swaptacular/swpt-k8s-config). We strive to
-make this option as simple and straightforward as possible.
+cluster](/2025/09/18/ready-for-production/). We strive to make this
+option as simple and straightforward as possible.
 
-Once your creditors agent node is up and running, you should connect
-it to at least one [accounting authority node from the public
+Once your creditors agent node is up and running, you [should connect
+it](/2023/04/26/under-the-hood-peer-connections/) to at least one
+[accounting authority node from the public
 list](#public-list-of-accounting-authority-nodes).
 
 
 **Note:** To use a well-known currency as a peg, check [the list of
 reserved currency IDs](#reserved-currency-ids) first. If the currency
-is not listed, contact us to have it added.
+you want to use is not listed, contact us to have it added.
 
 
 ## Run an accounting authority node
@@ -57,21 +58,22 @@ is not listed, contact us to have it added.
 Running your own *accounting authority node* helps ensure the
 long-term reliability of the digital currencies it manages. The
 recommended approach is to [deploy it on your own Kubernetes
-cluster](https://github.com/swaptacular/swpt-k8s-config). In most
-cases, you will also want to run a *creditors agent node* and a
-*debtors agent node*, either on the same cluster or on separate ones.
+cluster](/2025/09/18/ready-for-production/). In most cases, you will
+also want to run a *creditors agent node* and a *debtors agent node*,
+either on the same cluster or on separate ones.
 
 Once your accounting authority node is operational, please contact us
 so we can add it to the [public list of accounting authority
 nodes](#public-list-of-accounting-authority-nodes). This will allow
-others to discover your node and — subject to your approval — connect
-to it.
+others to discover your node and — subject to your approval — [connect
+to it.](/2023/04/26/under-the-hood-peer-connections/)
 
 **Note:** To create a root SSL certificate for your accounting
 authority node, you must first obtain a unique *accounting authority
 prefix*. The currently recommended method is to randomly select a
 hexadecimal number between `0x10000000` and `0x1000ffff` that does not
-match any existing *serialNumber* in the public list.
+match any existing *serialNumber* in the public list of accounting
+authority nodes.
 
 
 ## Public list of accounting authority nodes
