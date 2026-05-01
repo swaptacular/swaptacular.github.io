@@ -98,7 +98,7 @@ authority nodes.
 </table>
 
 **Note:** Click on the name of the node to download its [info-bundle
-file](https://github.com/swaptacular/swpt_ca_scripts).
+file.](https://github.com/swaptacular/swpt_ca_scripts)
 
 ## Reserved currency IDs
 
