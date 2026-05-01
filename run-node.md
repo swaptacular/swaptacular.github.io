@@ -42,7 +42,7 @@ creditors agent node on your own Kubernetes
 cluster](/2025/09/18/ready-for-production/). We strive to make this
 option as simple and straightforward as possible.
 
-Once your creditors agent node is up and running, you [should connect
+Once your creditors agent node is up and running, you should [connect
 it](/2023/04/26/under-the-hood-peer-connections/) to at least one
 [accounting authority node from the public
 list](#public-list-of-accounting-authority-nodes).
