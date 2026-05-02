@@ -42,8 +42,8 @@ financial and technical infrastructure.
 
 This ability to run currency-managing servers as part of a broader
 decentralized network opens up additional possibilities for a *wider
-range of institutions*, including commercial banks, municipalities,
-and states.
+range of institutions*, including barter operators, commercial banks,
+municipalities, and states.
 
 
 ## What about taxes?
