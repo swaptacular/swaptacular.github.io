@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order_number: 2
 ---
 
 The best way to ask a question, start a conversation, or make an

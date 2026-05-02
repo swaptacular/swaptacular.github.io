@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Learn more
+order_number: 3
 ---
 
 The Swaptacular project consists of three things:

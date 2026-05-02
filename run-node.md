@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Run your own node
+order_number: 4
 ---
 
 Like the Internet, Swaptacular is decentralized by nature. Companies
