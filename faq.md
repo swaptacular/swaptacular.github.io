@@ -16,7 +16,8 @@ or other currency tokens.
 Compared to *organized barter networks*, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
 systems, the operator controls credit issuance, which can lead to
-imbalances when credit is extended too freely to certain participants.
+imbalances when credit is extended more readily to certain
+participants than others.
 
 In Swaptacular, there is no single shared ledger. Each business
 maintains its own ledger and [extends credit only to trusted
