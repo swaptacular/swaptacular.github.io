@@ -8,12 +8,12 @@ order_number: 1
 
 In many ways — yes.
 
-Compared to **direct barter**, Swaptacular is simply less direct.
+Compared to *direct barter*, Swaptacular is simply less direct.
 Instead of exchanging goods or services immediately, participants earn
 currency tokens, which they can later use to obtain goods, services,
 or other tokens.
 
-Compared to **organized barter networks**, where a central operator
+Compared to *organized barter networks*, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
 systems, the operator controls credit issuance, which can lead to
 imbalances when credit is extended more readily to certain
@@ -25,7 +25,7 @@ partners](/2022/07/05/swaptaculars-network-of-trust/). This reduces
 reliance on a central authority and allows businesses to join and
 trade more independently.
 
-As a result, the network can grow organically, scaling to many
+As a result, **the network can grow organically**, scaling to many
 thousands of businesses with minimal central administration.
 
 
@@ -33,7 +33,7 @@ thousands of businesses with minimal central administration.
 
 To some extent — yes.
 
-Like in Swaptacular, commercial banks [issue their own digital
+Like Swaptacular, commercial banks [issue their own digital
 currencies](/2022/07/03/what-is-a-currency-peg/) (bank deposits),
 which holders can transfer to others and exchange for deposits issued
 by other banks (via bank transfers). To facilitate inter-bank
@@ -51,18 +51,18 @@ However, the banking system has two important constraints:
    economy.
 
 These constraints do not apply to Swaptacular. In some sense, each
-issuer in Swaptacular acts as its own central bank, with its currency
-backed by its ability to produce goods and services.
+issuer in Swaptacular **acts as its own central bank**, with its
+currency backed by its ability to produce goods and services.
 
-**Note:** In Swaptacular, [issuers of digital currencies can declare
-an interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
+*Note:* In Swaptacular, [issuers of digital currencies can declare an
+interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
 way this works is fundamentally different from how bank loans work.
 
 
 ## Is Swaptacular similar to Bitcoin?
 
-Not really. Digital currencies issued in Swaptacular **do not** rely
-on a shared cryptographic ledger.
+Not really. Digital currencies issued in Swaptacular **do not rely on
+a shared cryptographic ledger.**
 
 Bitcoin, like many other cryptocurrencies, maintains a shared ledger.
 In Swaptacular, there is no single shared ledger — each business
@@ -71,14 +71,14 @@ partners](/2022/07/05/swaptaculars-network-of-trust/).
 
 By design, Bitcoin issuance is not directly tied to real-world
 economic production. In Swaptacular, currency issuance is backed by
-ability to produce goods and services.
+the ability to produce goods and services.
 
 To settle a Bitcoin transfer, the transaction must be validated by the
 global network. In Swaptacular, currency issuers can [deploy their own
 Swaptacular nodes](/overview/) to manage their currencies — retaining
 complete control over their critical financial infrastructure.
 
-**Note:** It could be argued that there are some architectural
+*Note:* It could be argued that there are some architectural
 similarities between Swaptacular and the [Bitcoin Lightning
 Network](https://lightning.network/). However, Swaptacular is focused
 on local, issuer-controlled trading networks, rather than a global
@@ -94,11 +94,11 @@ In Swaptacular, digital currencies issued by large businesses can be
 used and traded just as easily as the currencies issued by small
 businesses. Moreover, because the network is decentralized, large
 businesses can [deploy their own Swaptacular nodes](/overview/) to
-manage the currencies they issue — preserving full control over their
+manage the currencies they issue — retaining full control over their
 financial and technical infrastructure.
 
 This ability to run currency-managing servers as part of a broader
-decentralized network opens up additional **possibilities for a wider
+decentralized network opens up additional possibilities for **a wider
 range of institutions**, including barter operators, commercial banks,
 municipalities, and states.
 
