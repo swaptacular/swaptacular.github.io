@@ -59,6 +59,31 @@ an interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
 way this works is fundamentally different from how bank loans work.
 
 
+## Is Swaptacular similar to Bitcoin?
+
+Not really.
+
+Bitcoin, like many other cryptocurrencies, maintains a shared ledger.
+In Swaptacular, there is no single shared ledger — each business
+maintains its own ledger and [extends credit only to trusted
+partners](/2022/07/05/swaptaculars-network-of-trust/).
+
+By design, the issuance of Bitcoins is not directly tied to real-world
+economic production. In Swaptacular, currency issuance is backed by
+*ability to produce goods and services.*
+
+To settle a Bitcoin transfer, the transaction must be validated by the
+global network. In Swaptacular, currency issuers can [deploy their own
+Swaptacular nodes](/overview/) to manage their currencies — retaining
+complete control over their critical financial infrastructure.
+
+**Note:** It could be argued that there are some architectural
+similarities between Swaptacular and the [Bitcoin Lightning
+Network](https://lightning.network/). However, Swaptacular is focused
+on local, issuer-controlled trading networks, rather than a global
+payment infrastructure.
+
+
 ## Is Swaptacular meant only for small businesses?
 
 While Swaptacular is designed to cater to the needs of small
