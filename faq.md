@@ -33,7 +33,7 @@ thousands of businesses with minimal central administration.
 
 To some extent — yes.
 
-Like Swaptacular, commercial banks [issue their own digital
+Like in Swaptacular, commercial banks [issue their own digital
 currencies](/2022/07/03/what-is-a-currency-peg/) (bank deposits),
 which holders can transfer to others and exchange for deposits issued
 by other banks (via bank transfers). To facilitate inter-bank
