@@ -11,7 +11,7 @@ In many ways — yes.
 Compared to *direct barter*, Swaptacular is simply less direct.
 Instead of exchanging goods or services immediately, participants earn
 currency tokens, which they can later use to obtain goods, services,
-or other currency tokens.
+or other tokens.
 
 Compared to *organized barter networks*, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
@@ -52,7 +52,7 @@ However, the banking system has two important constraints:
 
 These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular acts as its own central bank, with its currency
-backed by its own production.
+backed by its ability to produce goods and services.
 
 **Note:** In Swaptacular, [issuers of digital currencies can declare
 an interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
@@ -83,7 +83,7 @@ Different jurisdictions may classify Swaptacular transactions
 differently and may apply very different tax rules.
 
 However, businesses providing goods and services in exchange for
-digital tokens is not a new phenomenon. Gift cards and similar
+digital tokens are not a new phenomenon. Gift cards and similar
 stored-value instruments have long been used in commerce.
 
 The tax treatment of such transactions is therefore often comparable
