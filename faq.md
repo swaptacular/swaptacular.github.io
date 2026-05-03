@@ -42,13 +42,13 @@ exchanges, the central bank maintains a centralized settlement system
 
 However, the banking system has two important constraints:
 
-1. Businesses cannot issue their own currencies directly. Instead,
-   they must rely on banks as intermediaries, typically by borrowing
-   funds with interest.
+* Businesses cannot issue their own currencies directly. Instead, they
+  must rely on banks as intermediaries, typically by borrowing funds
+  with interest.
 
-2. The banking system relies on a central bank — a central authority
-   authorized by law and wielding significant power over the broader
-   economy.
+* The banking system relies on a central bank — a central authority
+  authorized by law and wielding significant power over the broader
+  economy.
 
 These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular **acts as its own central bank**, with its
@@ -79,10 +79,9 @@ Swaptacular nodes](/overview/) to manage their currencies — retaining
 complete control over their critical financial infrastructure.
 
 *Note:* It could be argued that there are some architectural
-similarities between Swaptacular and the [Bitcoin Lightning
-Network](https://lightning.network/). However, Swaptacular is focused
-on local, issuer-controlled trading networks, rather than a global
-payment infrastructure.
+similarities between Swaptacular and the *Bitcoin Lightning Network*.
+However, Swaptacular is focused on local, issuer-controlled trading
+networks, rather than a global payment infrastructure.
 
 
 ## Is Swaptacular meant only for small businesses?
