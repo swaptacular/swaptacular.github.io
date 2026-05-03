@@ -29,6 +29,34 @@ As a result, the network can grow organically, scaling to many
 thousands of businesses with minimal central administration.
 
 
+## Is Swaptacular similar to the banking system?
+
+To some extent — yes.
+
+Like Swaptacular, commercial banks [issue their own digital
+currencies](/2022/07/03/what-is-a-currency-peg/) (bank deposits),
+which holders can transfer to others and exchange for deposits issued
+by other banks (via bank transfers). To facilitate inter-bank
+exchanges, the central bank maintains a centralized settlement system
+(bank reserves).
+
+However, the banking system has two important constraints:
+
+1. Businesses cannot issue their own currencies directly. Instead,
+   they must rely on banks as intermediaries, typically by *borrowing
+   funds with interest.*
+
+2. The banking system relies on a central bank — a central authority
+   authorized by law and wielding *significant power over the broader
+   economy.*
+
+These constraints do not apply to Swaptacular.
+
+**Note:** In Swaptacular, [issuers of digital currencies can declare
+an interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
+way this works is fundamentally different from how bank loans work.
+
+
 ## Is Swaptacular meant only for small businesses?
 
 While Swaptacular is designed to cater to the needs of small
