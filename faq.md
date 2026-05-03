@@ -54,10 +54,12 @@ These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular **acts as its own central bank**, with its
 currency backed by its ability to produce goods and services.
 
-*Note:* In Swaptacular, [issuers of digital currencies can declare an
-interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
-way this works is fundamentally different from how bank loans work.
-
+<div class="message">
+  Note: In Swaptacular, <a href="/2022/07/08/interest-rates-in-swaptacular/">
+  issuers of digital currencies can declare an interest rate</a>, but
+  the way this works is fundamentally different from how bank loans
+  work.
+</div>
 
 ## Is Swaptacular similar to Bitcoin?
 
@@ -78,10 +80,13 @@ global network. In Swaptacular, currency issuers can [deploy their own
 Swaptacular nodes](/overview/) to manage their currencies — retaining
 complete control over their critical financial infrastructure.
 
-*Note:* It could be argued that there are some architectural
-similarities between Swaptacular and the *Bitcoin Lightning Network*.
-However, Swaptacular is focused on local, issuer-controlled trading
-networks, rather than a global payment infrastructure.
+<div class="message">
+  Note: It could be argued that there are some architectural
+  similarities between Swaptacular and the Bitcoin <em>Lightning
+  Network</em>. However, Swaptacular is focused on local,
+  issuer-controlled trading networks, rather than a global payment
+  infrastructure.
+</div>
 
 
 ## Is Swaptacular meant only for small businesses?
