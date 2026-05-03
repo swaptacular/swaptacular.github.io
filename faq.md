@@ -51,7 +51,8 @@ However, the banking system has two important constraints:
    economy.*
 
 These constraints do not apply to Swaptacular. In some sense, each
-issuer in Swaptacular acts as its own central bank.
+issuer in Swaptacular acts as its own central bank, with its currency
+backed by its own production.
 
 **Note:** In Swaptacular, [issuers of digital currencies can declare
 an interest rate](/2022/07/08/interest-rates-in-swaptacular/), but the
