@@ -8,12 +8,12 @@ order_number: 1
 
 In many ways — yes.
 
-Compared to *direct barter*, Swaptacular is simply less direct.
+Compared to **direct barter**, Swaptacular is simply less direct.
 Instead of exchanging goods or services immediately, participants earn
 currency tokens, which they can later use to obtain goods, services,
 or other tokens.
 
-Compared to *organized barter networks*, where a central operator
+Compared to **organized barter networks**, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
 systems, the operator controls credit issuance, which can lead to
 imbalances when credit is extended more readily to certain
@@ -43,12 +43,12 @@ exchanges, the central bank maintains a centralized settlement system
 However, the banking system has two important constraints:
 
 1. Businesses cannot issue their own currencies directly. Instead,
-   they must rely on banks as intermediaries, typically by *borrowing
-   funds with interest.*
+   they must rely on banks as intermediaries, typically by borrowing
+   funds with interest.
 
 2. The banking system relies on a central bank — a central authority
-   authorized by law and wielding *significant power over the broader
-   economy.*
+   authorized by law and wielding significant power over the broader
+   economy.
 
 These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular acts as its own central bank, with its currency
@@ -61,8 +61,8 @@ way this works is fundamentally different from how bank loans work.
 
 ## Is Swaptacular similar to Bitcoin?
 
-Not really. Digital currencies issued in Swaptacular *do not rely on a
-shared cryptographic ledger.*
+Not really. Digital currencies issued in Swaptacular **do not** rely
+on a shared cryptographic ledger.
 
 Bitcoin, like many other cryptocurrencies, maintains a shared ledger.
 In Swaptacular, there is no single shared ledger — each business
@@ -98,8 +98,8 @@ manage the currencies they issue — preserving full control over their
 financial and technical infrastructure.
 
 This ability to run currency-managing servers as part of a broader
-decentralized network opens up additional possibilities for a *wider
-range of institutions*, including barter operators, commercial banks,
+decentralized network opens up additional **possibilities for a wider
+range of institutions**, including barter operators, commercial banks,
 municipalities, and states.
 
 
@@ -113,7 +113,7 @@ digital tokens are not a new phenomenon. Gift cards and similar
 stored-value instruments have long been used in commerce.
 
 The tax treatment of such transactions is therefore often comparable
-to the treatment of *gift card transactions*, although the details
+to the treatment of **gift card transactions**, although the details
 depend on the specific legal and tax framework.
 
 You should consult your accountant or tax advisor to understand how
