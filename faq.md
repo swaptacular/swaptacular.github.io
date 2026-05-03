@@ -43,12 +43,12 @@ exchanges, the central bank maintains a centralized settlement system
 However, the banking system has two important constraints:
 
 * Businesses cannot issue their own currencies directly. Instead, they
-  must rely on banks as intermediaries, typically by borrowing funds
-  with interest.
+  must rely on banks as intermediaries, typically by *borrowing funds
+  with interest.*
 
 * The banking system relies on a central bank — a central authority
-  authorized by law and wielding significant power over the broader
-  economy.
+  authorized by law and wielding *significant power over the broader
+  economy.*
 
 These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular **acts as its own central bank**, with its
