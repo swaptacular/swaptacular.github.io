@@ -88,6 +88,12 @@ global network. In Swaptacular, currency issuers can [deploy their own
 Swaptacular nodes](/overview/) to manage their currencies — retaining
 complete control over their critical financial infrastructure.
 
+Taken together, this means Swaptacular does not define a global
+reserve currency. That is outside its scope. Instead, it relies on
+[automated currency
+exchanges](/2024/07/04/automated-currency-exchanges/) among many
+currencies.
+
 <div class="message">
   Note: It could be argued that there are some architectural
   similarities between Swaptacular and the Bitcoin <em>Lightning
