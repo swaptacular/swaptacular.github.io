@@ -13,6 +13,11 @@ Instead of exchanging goods or services immediately, participants earn
 currency tokens, which they can later use to obtain goods, services,
 or other tokens.
 
+The existence of currency tokens allows Swaptacular to implement
+[automated currency
+exchanges](/2024/07/04/automated-currency-exchanges/), greatly
+expanding the possibilities for trade.
+
 Compared to *organized barter networks*, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
 systems, the operator controls credit issuance, which can lead to
@@ -38,7 +43,7 @@ currencies](/2022/07/03/what-is-a-currency-peg/) (bank deposits),
 which holders can transfer to others and exchange for deposits issued
 by other banks (via bank transfers). To facilitate inter-bank
 exchanges, the central bank maintains a centralized settlement system
-(bank reserves).
+that uses bank reserves.
 
 However, the banking system has two important constraints:
 
@@ -52,7 +57,10 @@ However, the banking system has two important constraints:
 
 These constraints do not apply to Swaptacular. In some sense, each
 issuer in Swaptacular **acts as its own central bank**, with its
-currency backed by its ability to produce goods and services.
+currency backed by its ability to produce goods and services. At the
+same time, these “central banks” can engage in [automated currency
+exchanges](/2024/07/04/automated-currency-exchanges/) among
+themselves, without relying on a reserve system for settlement.
 
 <div class="message">
   Note: In Swaptacular, <a href="/2022/07/08/interest-rates-in-swaptacular/">
