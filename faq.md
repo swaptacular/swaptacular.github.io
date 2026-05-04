@@ -85,7 +85,7 @@ the ability to produce goods and services.
 
 To settle a Bitcoin transfer, the transaction must be validated by the
 global network. In Swaptacular, currency issuers can [deploy their own
-Swaptacular nodes](/overview/) to manage their currencies — retaining
+Swaptacular nodes](/run-node/) to manage their currencies — retaining
 complete control over their critical financial infrastructure.
 
 Taken together, this means Swaptacular does not define a global
@@ -111,7 +111,7 @@ businesses, it scales very well both vertically and horizontally.
 In Swaptacular, digital currencies issued by large businesses can be
 used and traded just as easily as the currencies issued by small
 businesses. Moreover, because the network is decentralized, large
-businesses can [deploy their own Swaptacular nodes](/overview/) to
+businesses can [deploy their own Swaptacular nodes](/run-node/) to
 manage the currencies they issue — retaining full control over their
 financial and technical infrastructure.
 

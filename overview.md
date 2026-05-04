@@ -120,3 +120,7 @@ laptop](/2024/07/07/under-the-hood-running-everything-together/).
 
 You can also **[deploy Swaptacular to Kubernetes
 clusters](/2025/09/18/ready-for-production/)**.
+
+<div class="lead message">
+  👉 See the <a href="/faq/">Frequently Asked Questions</a>.
+</div>
