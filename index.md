@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: What is Swaptacular? 🤔
+title: What is Swaptacular?
 ---
 
 Swaptacular is free software designed to make creating and issuing new
