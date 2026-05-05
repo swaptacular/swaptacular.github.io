@@ -58,8 +58,8 @@ However, the banking system has two important constraints:
   must rely on banks as intermediaries, typically by *borrowing funds
   with interest.*
 
-* The banking system relies on a central bank — a central authority
-  authorized by law and wielding *significant power over the broader
+* The banking system relies on a central bank — a legally privileged
+  institution that wields *significant power over the broader
   economy.*
 
 These constraints do not apply to Swaptacular. In some sense, each
