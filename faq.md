@@ -33,8 +33,8 @@ trade more independently.
 As a result, **the network can grow organically**, scaling to many
 thousands of businesses with minimal central administration.
 
-<div class="message">
-  Note: In Swaptacular, barter operators that <a href="/run-node/">run
+<div class="lead message">
+  👉 In Swaptacular, barter operators that <a href="/run-node/">run
   their own creditors agent nodes</a> can collect a small fee from
   each exchange their node arranges. These exchanges are fully
   automated and require no manual intervention.
