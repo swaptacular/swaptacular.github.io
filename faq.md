@@ -35,9 +35,9 @@ thousands of businesses with minimal central administration.
 
 <div class="message">
   Note: In Swaptacular, barter operators that <a href="/run-node/">run
-  their own creditor agent nodes</a> can collect a small fee from each
-  exchange their node arranges. These exchanges are fully automated
-  and require no manual intervention.
+  their own creditors agent nodes</a> can collect a small fee from
+  each exchange their node arranges. These exchanges are fully
+  automated and require no manual intervention.
 </div>
 
 
