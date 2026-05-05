@@ -45,7 +45,7 @@ thousands of businesses with minimal central administration.
 
 To some extent — yes.
 
-Like Swaptacular, commercial banks [issue their own digital
+Like Swaptacular, [commercial banks issue their own digital
 currencies](/2022/07/03/what-is-a-currency-peg/) (bank deposits),
 which holders can transfer to others and exchange for deposits issued
 by other banks (via bank transfers). To facilitate inter-bank
@@ -83,17 +83,16 @@ a shared cryptographic ledger.**
 
 Bitcoin, like many other cryptocurrencies, maintains a shared ledger.
 In Swaptacular, there is no single shared ledger — each business
-maintains its own ledger and [extends credit only to trusted
-partners](/2022/07/05/swaptaculars-network-of-trust/).
+maintains its own ledger and extends credit only to trusted partners.
 
 By design, Bitcoin issuance is not directly tied to real-world
 economic production. In Swaptacular, currency issuance is backed by
 the ability to produce goods and services.
 
 To settle a Bitcoin transfer, the transaction must be validated by the
-global network. In Swaptacular, currency issuers can [deploy their own
-Swaptacular nodes](/run-node/) to manage their currencies — retaining
-complete control over their critical financial infrastructure.
+global network. In Swaptacular, currency issuers can deploy their own
+Swaptacular nodes to manage their currencies — retaining complete
+control over their critical financial infrastructure.
 
 Taken together, this means Swaptacular does not define a global
 reserve currency. That is outside its scope. Instead, it relies on
@@ -117,8 +116,8 @@ businesses, *it scales very well both vertically and horizontally.*
 
 In Swaptacular, digital currencies issued by large businesses can be
 used and traded just as easily as the currencies issued by small
-businesses. Moreover, because the network is decentralized, large
-businesses can [deploy their own Swaptacular nodes](/run-node/) to
+businesses. Moreover, because the network is decentralized, [large
+businesses can deploy their own Swaptacular nodes](/overview/) to
 manage the currencies they issue — retaining full control over their
 financial and technical infrastructure.
 
