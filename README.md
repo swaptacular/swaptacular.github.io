@@ -12,10 +12,10 @@ This repository contains the source code for
 
 ## To generate and serve the site locally
 
-1. [Install Jekyll](https://jekyllrb.com/docs/installation/)
+1. [Install Jekyll.](https://jekyllrb.com/docs/installation/)
 
 2. Run:
 
-```
-$ bundle exec jekyll serve
-```
+   ```
+   $ bundle exec jekyll serve
+   ```
