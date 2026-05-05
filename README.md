@@ -1,4 +1,4 @@
-# Swaptacular is a more scalable way to organize barter. This is source for the project's website.
+# Swaptacular is a more scalable way to organize barter. This is the source for the project's website.
 
 Swaptacular is free software designed to make creating and issuing new
 digital currencies practical for everyone.
