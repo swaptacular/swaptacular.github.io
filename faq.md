@@ -113,7 +113,7 @@ currencies.
 ## Is Swaptacular meant only for small businesses?
 
 While Swaptacular is designed to cater to the needs of small
-businesses, it scales very well both vertically and horizontally.
+businesses, *it scales very well both vertically and horizontally.*
 
 In Swaptacular, digital currencies issued by large businesses can be
 used and traded just as easily as the currencies issued by small
@@ -123,9 +123,9 @@ manage the currencies they issue — retaining full control over their
 financial and technical infrastructure.
 
 This ability to run currency-managing servers as part of a broader
-decentralized network opens up additional possibilities for **a wider
-range of institutions**, including barter operators, commercial banks,
-municipalities, and states.
+decentralized network opens up additional possibilities for a wider
+range of institutions, including **barter operators**, commercial
+banks, municipalities, and states.
 
 
 ## What about taxes?
