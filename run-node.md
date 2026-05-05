@@ -13,8 +13,10 @@ nodes](/overview/), each serving a different role in the network:
 * accounting authority nodes
 * debtors agent nodes
 
-**If you are considering running your own Swaptacular node, feel free
-to [contact us.](/contact/)**
+<div class="lead message">
+  👉 If you are considering running your own Swaptacular node, feel
+  free to <a href="/contact/">contact us.</a>
+</div>
 
 If you have decided to run your own Swaptacular node, there are
 several ways to do so. The best approach depends on your goals. Below
