@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-order_number: 1
+order_number: 3
 ---
 
 ## Is Swaptacular similar to barter?

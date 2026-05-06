@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn more
-order_number: 3
+order_number: 1
 ---
 
 The Swaptacular project consists of three things:
@@ -122,5 +122,5 @@ You can also **[deploy Swaptacular to Kubernetes
 clusters](/2025/09/18/ready-for-production/)**.
 
 <div class="lead message">
-  👉 See the <a href="/faq/">Frequently Asked Questions</a>.
+  👉 <a href="/show-me/">Show me</a> Swaptacular in action!
 </div>
