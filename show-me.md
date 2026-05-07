@@ -70,7 +70,8 @@ bit involved.
 
 You would need to create multiple currencies and wallets (using
 different user accounts), distribute funds between them, and configure
-exchange policies.
+exchange policies. You would also need to wait a day or two, as the
+matching system runs overnight.
 
 In practice, you do not need to do this. As more participants join
 your local trading community, opportunities for exchange naturally
