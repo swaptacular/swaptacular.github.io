@@ -26,12 +26,12 @@ advanced:
 
 ## Let someone else run a creditors agent node for you
 
-Running your own *creditors agent node* allows you [to offer automated
+Running your own creditors agent node allows you [to offer automated
 currency exchanges to your
 users](/2024/07/04/automated-currency-exchanges/). Most importantly,
 it enables you to collect a small fee from each completed exchange.
 
-The easiest way to get started is to let `swaptacular.org` run the
+The easiest way to get started is to let **swaptacular.org** run the
 node for you. We are committed to keeping this service free, and we
 rely on donations to support it.
 
@@ -58,11 +58,11 @@ you want to use is not listed, contact us to have it added.
 
 ## Run an accounting authority node
 
-Running your own *accounting authority node* helps ensure the
-long-term reliability of the digital currencies it manages. The
-recommended approach is to [deploy it on your own Kubernetes
+Running your own accounting authority node helps ensure the long-term
+reliability of the digital currencies it manages. The recommended
+approach is to [deploy it on your own Kubernetes
 cluster](/2025/09/18/ready-for-production/). In most cases, you will
-also want to run a *creditors agent node* and a *debtors agent node*,
+also want to run a creditors agent node and a debtors agent node,
 either on the same cluster or on separate ones.
 
 Once your accounting authority node is operational, please contact us
