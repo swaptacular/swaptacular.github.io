@@ -65,7 +65,7 @@ Yet, sustaining these local systems was practically impossible.
 Currency exchange was difficult, counterfeiting was a constant threat,
 and state interference could easily destroy them.
 
-## Digital technologies are redefining what is possible
+## Digital technologies are changing what is possible
 
 Widespread mobile connectivity and cheap internet hosting have opened
 up new opportunities. Today, creating digital currencies is no longer
