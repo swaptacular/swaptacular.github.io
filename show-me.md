@@ -56,9 +56,7 @@ currency, like the US dollar, you will be asked to approve this
 To issue your own currency to your wallet:
 
 1. Scan the digital coin QR code for your own currency.
-
 2. Create a payment request for the desired amount.
-
 3. Scan the payment request QR code **with the “My currency” app** and
    approve the payment.
 
