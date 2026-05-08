@@ -21,7 +21,7 @@ they have for what they need.
 </div>
 
 
-## Why this matters more than ever
+## Why local trading systems matter
 
 We live in a globalized economy. However, ensuring that the world’s
 resources flow smoothly across the globe isn’t easy.
