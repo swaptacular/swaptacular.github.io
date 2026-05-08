@@ -82,7 +82,7 @@ have become a routine reality. Together, these developments make local
 trading systems cheaper, safer, and truly viable for small businesses.
 
 <div class="lead message">
-  👉 <a href="/overview/">We now have the tools</a> to create money
+  👉 <a href="/overview/">Now we have the tools</a> to create money
   that works for the community — not the other way around!
 </div>
 
