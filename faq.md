@@ -41,6 +41,41 @@ thousands of businesses with minimal central administration.
 </div>
 
 
+## Is Swaptacular meant only for small businesses?
+
+While Swaptacular is designed to cater to the needs of small
+businesses, *it scales very well both vertically and horizontally.*
+
+In Swaptacular, digital currencies issued by large businesses can be
+used and traded just as easily as the currencies issued by small
+businesses. Moreover, because the network is decentralized, [large
+businesses can deploy their own Swaptacular nodes](/overview/) to
+manage the currencies they issue — retaining full control over their
+financial and technical infrastructure.
+
+This ability to run currency-managing servers as part of a broader
+decentralized network opens up additional possibilities for a wider
+range of institutions, including **barter operators**, commercial
+banks, municipalities, and states.
+
+
+## What about taxes?
+
+Different jurisdictions may classify Swaptacular transactions
+differently and may apply very different tax rules.
+
+However, businesses providing goods and services in exchange for
+digital tokens are not a new phenomenon. Gift cards and similar
+stored-value instruments have long been used in commerce.
+
+The tax treatment of such transactions is therefore often comparable
+to the treatment of **gift card transactions**, although the details
+depend on the specific legal and tax framework.
+
+You should consult your accountant or tax advisor to understand how
+these transactions are treated in your jurisdiction.
+
+
 ## Is Swaptacular similar to the banking system?
 
 To some extent — yes.
@@ -150,42 +185,30 @@ two outcomes:
 Depending on how the system is governed, these dynamics can unfold
 over years, decades, or even centuries.
 
-Swaptacular attempts to avoid these problems by allowing multiple
-currencies and exchange relationships to coexist, rather than
-requiring all participants to rely on a single shared ledger governed
-by centrally imposed system-wide rules.
+Swaptacular avoids these problems by allowing multiple currencies and
+exchange relationships to coexist, rather than requiring all
+participants to rely on a single shared ledger governed by centrally
+imposed system-wide rules.
 
 
-## Is Swaptacular meant only for small businesses?
+## Isn’t gold the best form of money?
 
-While Swaptacular is designed to cater to the needs of small
-businesses, *it scales very well both vertically and horizontally.*
+No.
 
-In Swaptacular, digital currencies issued by large businesses can be
-used and traded just as easily as the currencies issued by small
-businesses. Moreover, because the network is decentralized, [large
-businesses can deploy their own Swaptacular nodes](/overview/) to
-manage the currencies they issue — retaining full control over their
-financial and technical infrastructure.
+Gold can be thought of as a global shared ledger enforced in physical
+space, where claims ultimately depend on the ability to secure and
+defend possession.
 
-This ability to run currency-managing servers as part of a broader
-decentralized network opens up additional possibilities for a wider
-range of institutions, including **barter operators**, commercial
-banks, municipalities, and states.
+Unlike abstract ledger systems, where ownership is simply recorded and
+updated, gold requires continuous real-world enforcement of claims. In
+practice, control over gold has historically depended on the ability
+to secure possession through force.
 
+Therefore, gold can be a reasonable form of money only in contexts
+where enforcement is already bundled into existing political or
+military structures — such as empires or heavily fortified feudal
+systems, where control over territory and assets is continuously
+maintained through organized force.
 
-## What about taxes?
-
-Different jurisdictions may classify Swaptacular transactions
-differently and may apply very different tax rules.
-
-However, businesses providing goods and services in exchange for
-digital tokens are not a new phenomenon. Gift cards and similar
-stored-value instruments have long been used in commerce.
-
-The tax treatment of such transactions is therefore often comparable
-to the treatment of **gift card transactions**, although the details
-depend on the specific legal and tax framework.
-
-You should consult your accountant or tax advisor to understand how
-these transactions are treated in your jurisdiction.
+Swaptacular is designed to cater to the needs of small businesses —
+not for the monetary coordination of empires.
