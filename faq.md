@@ -201,14 +201,14 @@ defend possession.
 
 Unlike abstract ledger systems, where ownership is simply recorded and
 updated, gold requires continuous real-world enforcement of claims. In
-practice, control over gold has historically depended on the ability
-to secure possession through force.
+practice, possession of gold has historically been secured through
+force.
 
 Therefore, gold can be a reasonable form of money only in contexts
-where enforcement is already bundled into existing political or
-military structures — such as empires or heavily fortified feudal
-systems, where control over territory and assets is continuously
-maintained through organized force.
+where enforcement of claims is already integrated into existing
+political and military structures — such as empires or heavily
+fortified feudal domains, where control over territory and assets is
+continuously maintained through organized force.
 
 Swaptacular is designed to cater to the needs of small businesses —
 not for the monetary coordination of empires.
