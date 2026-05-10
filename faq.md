@@ -188,7 +188,7 @@ over years, decades, or even centuries.
 Swaptacular avoids these problems by allowing multiple currencies and
 exchange relationships to coexist, rather than requiring all
 participants to rely on a single shared ledger governed by centrally
-imposed system-wide rules.
+imposed rules.
 
 
 ## Isn’t gold the best form of money?
