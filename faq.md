@@ -176,16 +176,16 @@ two outcomes:
   participants to gradually abandon it in favor of alternative systems.
 
 * The system continues expanding by issuing increasing amounts of
-  credit to new participants, who in turn commit part of their future
-  income to servicing existing claims through interest payments and
-  other financial obligations. Over time, this can create dynamics
-  similar to those of a pyramid structure, in which the stability of
-  the system depends on continual expansion.
+  credit to new participants, who in turn often commit part of their
+  future productivity to servicing existing claims through interest
+  payments or other financial obligations. Over time, this can create
+  dynamics similar to those of a pyramid structure, in which the
+  stability of the system depends on continual expansion.
 
 Depending on how the system is governed, these dynamics can unfold
 over years, decades, or even centuries.
 
 Swaptacular avoids these problems by allowing multiple currencies and
 exchange relationships to coexist, rather than requiring all
-participants to rely on a single shared ledger governed by system-wide
+participants to rely on a single shared ledger governed by universal
 rules.
