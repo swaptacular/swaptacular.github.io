@@ -147,7 +147,7 @@ currencies.
 </div>
 
 
-## Is shared ledger bad?
+## Are shared ledgers bad?
 
 Not necessarily.
 
