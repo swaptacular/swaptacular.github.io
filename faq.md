@@ -189,26 +189,3 @@ Swaptacular avoids these problems by allowing multiple currencies and
 exchange relationships to coexist, rather than requiring all
 participants to rely on a single shared ledger governed by system-wide
 rules.
-
-
-## Isn’t gold the best form of money?
-
-No.
-
-Gold can be thought of as a global shared ledger enforced in physical
-space, where claims ultimately depend on the ability to secure and
-defend possession.
-
-Unlike abstract ledger systems, where ownership is simply recorded and
-updated, gold requires continuous real-world enforcement of claims. In
-practice, possession of gold has historically been secured mainly
-through force.
-
-Therefore, gold can be a reasonable form of money only in contexts
-where enforcement of claims is already deeply integrated into the
-existing political and military structures — such as empires or
-heavily fortified feudal domains, where control over territory and
-assets is continuously maintained through organized force.
-
-Swaptacular is designed to cater to the needs of small businesses —
-not for the tax collection of empires or fiefdoms.
