@@ -211,4 +211,4 @@ heavily fortified feudal domains, where control over territory and
 assets is continuously maintained through organized force.
 
 Swaptacular is designed to cater to the needs of small businesses —
-not for the monetary coordination of empires or fiefdoms.
+not for the tax collection of empires or fiefdoms.
