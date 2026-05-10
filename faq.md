@@ -159,8 +159,8 @@ systems rely on shared ledgers.
 However, shared ledgers tend to face growing governance challenges as
 they expand.
 
-As new participants join the system, their economic interests often
-diverge from those of earlier participants. In particular, newer
+As new participants join the system, their **economic interests often
+diverge** from those of earlier participants. In particular, newer
 participants usually favor easier access to credit and liquidity,
 while earlier ones tend to favor preserving the value of existing
 claims.
