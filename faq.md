@@ -175,12 +175,12 @@ two outcomes:
 * The system becomes rigid and resistant to adaptation, causing
   participants to gradually abandon it in favor of alternative systems.
 
-* The system continues expanding by issuing increasing amounts of
-  credit to new participants, who in turn often commit part of their
-  future productivity to servicing existing claims through interest
-  payments or other financial obligations. Over time, this can create
-  dynamics similar to those of a pyramid structure, in which the
-  stability of the system depends on continual expansion.
+* The system keeps expanding by issuing increasing amounts of credit
+  to new participants, who in turn often commit part of their future
+  productivity to servicing existing claims through interest payments
+  or other financial obligations. Over time, this can create dynamics
+  similar to those of a pyramid structure, in which the continued
+  functioning of the system depends on ongoing expansion.
 
 Depending on how the system is governed, these dynamics can unfold
 over years, decades, or even centuries.
