@@ -141,8 +141,8 @@ currencies.
 <div class="message">
   Note: It could be argued that there are some architectural
   similarities between Swaptacular and the Bitcoin <em>Lightning
-  Network</em>. However, Swaptacular is focused on local,
-  issuer-controlled trading networks, rather than a global payment
+  Network</em>. However, Swaptacular is focused on local
+  multi-currency trading networks, rather than a global payment
   infrastructure.
 </div>
 
