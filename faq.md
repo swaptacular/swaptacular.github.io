@@ -18,6 +18,8 @@ The existence of currency tokens allows Swaptacular to implement
 exchanges](/2024/07/04/automated-currency-exchanges/), greatly
 expanding the possibilities for trade.
 
+<hr>
+
 Compared to *organized barter networks*, where a central operator
 manages a shared ledger, Swaptacular is more decentralized. In these
 systems, the operator controls credit issuance, which can lead to
