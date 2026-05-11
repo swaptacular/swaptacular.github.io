@@ -21,7 +21,7 @@ expanding the possibilities for trade.
 <hr>
 
 Compared to *organized barter networks*, where a central operator
-manages a single ledger, Swaptacular is more decentralized. In such
+manages a common ledger, Swaptacular is more decentralized. In such
 systems, the operator controls credit issuance, which can lead to
 imbalances when credit is extended more readily to some participants
 than to others.
