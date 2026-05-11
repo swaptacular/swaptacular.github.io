@@ -186,6 +186,7 @@ Depending on how the system is governed, these dynamics can unfold
 over years, decades, or even centuries.
 
 Swaptacular avoids these problems by allowing multiple currencies and
-exchange relationships to coexist and actively cooperate, rather than
+exchange relationships to [coexist and actively
+cooperate](/2024/07/04/automated-currency-exchanges/), rather than
 requiring all participants to rely on a single shared ledger governed
 by universal rules.
