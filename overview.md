@@ -15,7 +15,7 @@ interoperable currency and payment systems without relying on a
 centralized ledger.
 
 
-## The network architecture
+## Decentralized network architecture
 
 In Swaptacular's network architecture, there are five types of nodes:
 
