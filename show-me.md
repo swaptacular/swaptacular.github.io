@@ -18,13 +18,18 @@ your computer has a camera, as you will need it to scan QR codes.
 
 <blockquote>
   👉 <a href="{{ site.app_demo.debtors_webapp }}" target="_blank"> The
-  “My currency” app</a> will guide you through the process of creating
-  your own digital currency.
+  “My Currency” app</a> will guide you through the process of creating
+  your own digital currency. At the end of the process, a QR code
+  representing your currency — your “digital coin” — will be
+  generated.
 </blockquote>
 
-Once you have created your own currency, you will be able to issue any
+Once you have created your currency, you will be able to issue any
 amount of it to your digital wallet.
 
+**Note:** When setting up your currency, it is strongly recommended to
+declare a fixed exchange rate between your currency and a well-known
+currency such as the US dollar.
 
 ## Create a digital wallet
 
