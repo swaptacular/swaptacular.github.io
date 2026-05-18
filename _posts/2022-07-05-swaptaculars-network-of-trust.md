@@ -90,7 +90,7 @@ Paul's lead.
 
 <div class="message">
   <b>Insight:</b> In Swaptacular, contrary to the way bank loans work,
-  the more people start acting smart, the better live becomes for
+  the more people start acting smart, the better life becomes for
   everyone.
 </div>
 
