@@ -101,7 +101,7 @@ authority nodes.
 </table>
 
 **Note:** Click on the name of the node to download its [info-bundle
-file.](https://github.com/swaptacular/swpt_ca_scripts)
+file.](/2023/08/03/under-the-hood-message-transport/#info-bundle-files)
 
 ## Reserved currency IDs
 
