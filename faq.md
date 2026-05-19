@@ -57,8 +57,14 @@ financial and technical infrastructure.
 
 This ability to run currency-managing servers as part of a broader
 decentralized network opens up additional possibilities for a wider
-range of institutions, including **barter operators**, commercial
-banks, municipalities, and states.
+range of institutions, including barter operators, commercial banks,
+municipalities, and states.
+
+We believe Swaptacular can greatly benefit **barter operators**
+focused on business-to-business trade, complementing their existing
+services with a scalable business-to-customer solution. Operators that
+provide a customer-facing digital trade network may gain a significant
+competitive advantage as the barter economy evolves.
 
 
 ## What about taxes?
