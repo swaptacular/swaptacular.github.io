@@ -49,8 +49,13 @@ digital coin for *this demo currency*:
 
 ![Example digital coin](/images/example_digital_coin.png)
 
-Once the app has the QR code for the currency you want to use, you
-will be able to request payments in that currency and process payment
+In practice, you will often
+<a href="{{ site.app_demo.map_url }}" target="_blank">use a map</a>
+to help you find participating businesses close to your location and
+their corresponding digital coin QR codes.
+
+Once the app has the QR code for a currency you want to use, you will
+be able to request payments in that currency and process payment
 requests from other people.
 
 **Note:** When you want to use a new currency, and the issuer has
