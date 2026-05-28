@@ -3,7 +3,7 @@ layout: post
 title: See Swaptacular in Action
 description: Presents Swaptacular's "My wallet" and "My currency" apps
 author: Evgeni Pandurski
-tags: [intro]
+tags: [overview, intro]
 ---
 
 After months of hard work on the [Currency Issuer
