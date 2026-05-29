@@ -59,13 +59,29 @@ This ability to run currency-managing servers as part of a broader
 decentralized network opens up additional possibilities for a wider
 range of institutions, including barter operators,
 [LETS](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
-operators, commercial banks, municipalities, and states.
+administrators, commercial banks, municipalities, and states.
 
 We believe Swaptacular can greatly benefit **barter operators**
 focused on business-to-business trade, complementing their existing
 services with a scalable business-to-customer solution. Operators that
 provide a customer-facing digital trade network may gain a significant
 competitive advantage as the barter economy evolves.
+
+We also believe Swaptacular can help **LETS administrators** build
+more resilient trading communities. Establishing a local exchange
+network requires substantial effort, and successful communities often
+face governance challenges as they grow. Swaptacular makes this
+transition smoother: as communities expand, participants can gradually
+rely less on a shared “common currency” and more on participant-issued
+currencies.
+
+<div class="message">
+  Note: Combined with administrator-maintained
+  <a href="{{ site.app_demo.map_url }}" target="_blank">custom maps</a>
+  linking to participants’ public online profiles, Swaptacular can
+  provide much of the infrastructure needed for an emerging local
+  exchange network.
+</div>
 
 
 ## What about taxes?
