@@ -45,8 +45,8 @@ thousands of businesses with minimal central administration.
 
 ## Is Swaptacular meant only for small businesses?
 
-While Swaptacular is designed to cater to the needs of small
-businesses, *it scales very well both vertically and horizontally.*
+While Swaptacular is designed with small businesses in mind, *it
+scales very well in both participant size and network size.*
 
 In Swaptacular, digital currencies issued by large businesses can be
 used and traded just as easily as the currencies issued by small
