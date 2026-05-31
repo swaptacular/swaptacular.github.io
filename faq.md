@@ -78,9 +78,9 @@ currencies.
 <div class="message">
   Note: Combined with administrator-maintained
   <a href="{{ site.app_demo.map_url }}" target="_blank">custom maps</a>
-  linking to participants’ public online profiles, Swaptacular can
-  provide much of the infrastructure needed for an emerging local
-  exchange network.
+  linking to participants’ public online profiles or webpages,
+  Swaptacular can provide much of the infrastructure needed for an
+  emerging local exchange network.
 </div>
 
 
