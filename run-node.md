@@ -119,6 +119,11 @@ file.](/2023/08/03/under-the-hood-message-transport/#info-bundle-files)
       <td>United States Dollar</td>
       <td><a href="https://debtors.swaptacular.org/840#swpt:840" target="_blank" style="word-break: break-all">https://debtors.swaptacular.org/840#swpt:840</a></td>
     </tr>
+    <tr>
+      <td>978</td>
+      <td>Euro</td>
+      <td><a href="https://debtors.swaptacular.org/978#swpt:978" target="_blank" style="word-break: break-all">https://debtors.swaptacular.org/978#swpt:978</a></td>
+    </tr>
   </tbody>
 </table>
 
