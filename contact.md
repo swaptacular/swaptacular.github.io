@@ -20,6 +20,10 @@ announcement is to
 
 <ul>
   <li>
+    You can use the contact form at
+    <a href="https://www.swaptacular.org/contact" target="_blank">swaptacular.org.</a>
+  </li>
+  <li>
     If you prefer email, you can
     <a href="{{ site.mailing_list.url }}" target="_blank">join our mailing list.</a>
   </li>
