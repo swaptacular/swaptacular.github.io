@@ -31,9 +31,10 @@ currency exchanges to your
 users](/2024/07/04/automated-currency-exchanges/). Most importantly,
 it enables you to collect a small fee from each completed exchange.
 
-The easiest way to get started is to let **swaptacular.org** run the
-node for you. We are committed to keeping this service free, and we
-rely on donations to support it.
+The easiest way to get started is to let
+[swaptacular.org](https://www.swaptacular.org/) run the node for you.
+We are committed to keeping this service free, and we rely on
+donations to support it.
 
 <p>{% include sponsor_button.html %}</p>
 
